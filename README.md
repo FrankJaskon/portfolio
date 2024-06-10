@@ -24,7 +24,7 @@
 
 ### Применяемые технологии:
 
-- JS, React-native, TypeScript, Axios, Yarn, Yarn workspaces, Eslint, Prettier, webpack, metro, FSD, emotion.
+- **JS, React-native, TypeScript, Axios, Yarn, Yarn workspaces, Eslint, Prettier, webpack, metro, FSD, emotion.**
 
 ### Решения в проекте направлены на:
 
@@ -72,7 +72,7 @@
 
 ### Применяемые технологии:
 
-- JS, React, NextJS, TypeScript, CSSModules, NPM, Webpack, Babel, FSD, RTK, RTK QUERY, STORYBOOK, Eslint, Prettier.
+- **JS, React, NextJS, TypeScript, CSSModules, NPM, Webpack, Babel, FSD, RTK, RTK QUERY, STORYBOOK, Eslint, Prettier.**
 
 ### Решения в проекте направлены на:
 
@@ -101,7 +101,7 @@
 
 ### Применяемые технологии:
 
-- JS, React, TypeScript, CSSModules, NPM, Webpack, Babel, FSD, RTK, RTK QUERY, Axios, JEST, RTL, CYPRESS, STORYBOOK, Eslint, Prettier.
+- **JS, React, TypeScript, CSSModules, NPM, Webpack, Babel, FSD, RTK, RTK QUERY, Axios, JEST, RTL, CYPRESS, STORYBOOK, Eslint, Prettier.**
 
 ### Решения в проекте направлены на:
 
@@ -142,7 +142,7 @@
 
 ### Применяемые технологии:
 
-- JS, HTML, CSS, Babel, ESLint
+- **JS, HTML, CSS, Babel, ESLint**
 
 ### Решения в проекте направлены на:
 
