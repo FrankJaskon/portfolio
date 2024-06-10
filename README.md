@@ -101,7 +101,7 @@
 
 ### Применяемые технологии:
 
-- **JS, React, TypeScript, CSSModules, NPM, Webpack, Babel, FSD, RTK, RTK QUERY, Axios, JEST, RTL, CYPRESS, STORYBOOK, Eslint, Prettier.**
+- **JS, React, TypeScript, CSSModules, NPM, Webpack, Babel, FSD, RTK, RTK QUERY, Redux Thunk, Axios, JEST, RTL, CYPRESS, STORYBOOK, Eslint, Prettier.**
 
 ### Решения в проекте направлены на:
 
@@ -109,7 +109,7 @@
 - Отображение пользовательского интерфейса. Улучшение пользовательского опыта при работе с SPA приложением.
 - Управление состоянием приложения с использованием Redux Tool Kit.
 - Демонстрацию работы с TypeScript.
-- Демонстрацию работы с API. Использование RTK Query.
+- Демонстрацию работы с API. Использование RTK Query, Redux Thunk.
 - Формирование UI-kit под проект.
 - Роутинг по приложению. Защищённые маршруты.
 - Локализацию проекта.
