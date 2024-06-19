@@ -168,7 +168,9 @@
 
 </details>
 
-<details><a name='RU'></a>
+<p></p> <a name='RU'></a>
+
+<details>
   <summary>RU</summary>
   
 # Проекты
