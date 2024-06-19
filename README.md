@@ -168,8 +168,9 @@
 
 </details>
 
-<details open><a name='RU'></a>
+<details><a name='RU'></a>
   <summary>RU</summary>
+  
 # Проекты
 
 ## Ссылки на проекты:
