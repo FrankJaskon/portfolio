@@ -1,3 +1,175 @@
+| №  | Version                                       |
+|----|------------------------------------------------|
+| 1  | [EN](#EN)   |
+| 2  | [RU](#RU)  |
+
+
+<details open><a name='EN'></a>
+  <summary>EN</summary>
+
+# Projects
+
+## Project Links:
+
+- [Presentation Mobile App](https://github.com/rees46/demo-react-native)
+- [NPM Package for Locales](https://www.npmjs.com/package/@atls-ui-generators/locales)
+- [Authentication Implementation](https://github.com/FrankJaskon/social)
+- [News Platform](https://github.com/FrankJaskon/news-wire)
+- [Tattoo Shop Landing Page](https://github.com/FrankJaskon/tattoo_landing_via_pure_js/tree/main)
+
+## Contents
+
+| №  | Project                                       |
+|----|------------------------------------------------|
+| 1  | [Presentation Mobile App](#presentation-mobile-app)   |
+| 2  | [NPM Package for Locales](#npm-package-for-locales)  |
+| 3  | [Authentication Implementation](#authentication-implementation) |
+| 4  | [News Platform](#news-platform)                     |
+| 5  | [Tattoo Shop Landing Page](#tattoo-shop-landing-page) |
+
+---
+
+## Presentation Mobile App for demonstrating the capabilities of a multichannel marketing product based on accurate data.<a name='presentation-mobile-app'></a>
+
+- [GitHub](https://github.com/rees46/demo-react-native)
+
+### Technologies Used:
+
+- **JS, React-native, TypeScript, Axios, Yarn, Yarn workspaces, Eslint, Prettier, webpack, metro, FSD, emotion.**
+
+### Project Goals:
+
+- Develop a presentation app for Android demonstrating the functionality of the provided SDK.
+- Implement business requirements within specified deadlines.
+- Create an easily extensible modular project using a monorepo structure.
+- Develop UI-kit components using emotion.
+- Style the application according to the design from Figma.
+- Implement routing within the application.
+- Localize the application.
+- Develop themes and allow adding new themes to the application.
+
+### Achievements:
+
+- [x] Built the app from scratch and implemented the planned functionality within tight deadlines.
+- [x] Acquired basic skills in mobile application development using React-native for Android.
+- [x] Designed and implemented a scalable and maintainable application architecture.
+- [x] Independently configured and implemented a monorepo structure using Yarn Workspaces.
+- [x] Demonstrated the ability to independently solve assigned tasks, gather missing information, and break down complex tasks into subtasks.
+- [x] Developed a UI-kit component base from scratch for mobile applications.
+
+---
+
+## NPM Package for automatic extraction of locales at the fragment level and formation of unified application-level locales.<a name='npm-package-for-locales'></a>
+
+- [NPM](https://www.npmjs.com/package/@atls-ui-generators/locales)
+
+### Project Goals:
+
+- Optimize translation handling time and improve development convenience.
+- Form locales based on default messages.
+- Allow both common translation files and fragment-based files for working with translations at the component level.
+
+### Achievements:
+
+- [x] Developed and successfully applied in several production projects.
+- [x] Reduced time costs for organizing translations.
+
+---
+
+
+## Authentication Implementation and image handling demonstration.<a name='authentication-implementation'></a>
+
+- [GitHub](https://github.com/FrankJaskon/social)
+
+### Technologies Used:
+
+- **JS, React, NextJS, TypeScript, CSSModules, NPM, Webpack, Babel, FSD, RTK, RTK QUERY, STORYBOOK, Eslint, Prettier.**
+
+### Project Goals:
+
+- Plan and organize user authentication using JWT Tokens.
+- Implement authentication via Google service.
+- Implement authentication via GitHub service.
+- Handle images, including user avatar customization.
+- Develop a UI-kit for the project.
+- Localize the application.
+
+### Achievements:
+
+- [x] Successfully applied Agile methodology skills. Created tasks, estimated complexity and deadlines, and participated in task distribution within the team.
+- [x] Demonstrated strong communication skills within the team, solving non-standard situations that arose during development.
+- [x] Completed tasks within the planned deadlines.
+- [x] Applied skills in working with Jira and Slack.
+- [x] Implemented the frontend part of the application's authentication. Participated in discussions of concepts and implementation possibilities. Achieved token isolation to prevent interference at the application level.
+- [x] Conducted code reviews and evaluated the solutions of other developers.
+
+---
+
+
+## News Platform.<a name='news-platform'></a>
+
+- [GitHub](https://github.com/FrankJaskon/news-wire)
+
+### Technologies Used:
+
+- **JS, React, TypeScript, CSSModules, NPM, Webpack, Babel, FSD, RTK, RTK QUERY, Redux Thunk, Axios, JEST, RTL, CYPRESS, STORYBOOK, Eslint, Prettier.**
+
+### Project Goals:
+
+- Organize a maintainable and scalable codebase using Feature Sliced Design architecture.
+- Display the user interface and improve user experience with the SPA application.
+- Manage application state using Redux Tool Kit.
+- Demonstrate working with TypeScript.
+- Demonstrate working with APIs using RTK Query and Redux Thunk.
+- Develop a UI-kit for the project.
+- Implement routing within the application, including protected routes.
+- Localize the project.
+- Support multiple themes.
+- Apply code splitting in practice.
+- Support multiple codebases with feature_flag switching.
+- Optimize initial application load and bundle size.
+- Implement asynchronous loading of components, translations, reducers, images, and libraries.
+- Demonstrate working with Storybook.
+- Demonstrate project configuration from scratch.
+- Demonstrate working with environment variables.
+- Demonstrate working with testing environments such as Jest, React Testing Library, Cypress.
+
+### Achievements:
+
+- [x] Acquired skills in working with high-load SPA applications.
+- [x] Acquired skills in comprehensive codebase test coverage.
+- [x] Acquired skills in working with StoryBook.
+- [x] Acquired and successfully applied FSD architecture in practice.
+- [x] Successfully configured a React application from scratch.
+- [x] Acquired skills in independently solving tasks.
+- [x] Successfully applied code splitting and lazy loading practices for components, reducers, libraries, images, and translations.
+
+---
+
+
+## Tattoo Shop Landing Page.<a name='tattoo-shop-landing-page'></a>
+
+- [GitHub](https://github.com/FrankJaskon/tattoo_landing_via_pure_js/tree/main)
+
+### Technologies Used:
+
+- **JS, HTML, CSS, Babel, ESLint**
+
+### Project Goals:
+
+- Demonstrate basic skills in working with native JavaScript.
+- Demonstrate proficiency in HTML and styling using CSS.
+- Develop custom interactive elements using JavaScript.
+
+### Achievements:
+
+- [x] Achieved a responsive interface using native HTML, CSS, and JS technologies.
+- [x] Implemented responsive CSS animations.
+
+</details>
+
+<details open><a name='RU'></a>
+  <summary>RU</summary>
 # Проекты
 
 ## Ссылки на проекты:
@@ -156,3 +328,5 @@
 
 - [x] Добился отзывчивого интерфейса с применением нативных технологий HTML, CSS, JS.
 - [x] Реализовал отзывчивые CSS анимации.
+
+</details>
